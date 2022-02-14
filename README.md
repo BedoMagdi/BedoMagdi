@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Abdelrahman Baz and I am a graduate student in Software Engineering at UT Austin.
+
+- 🌱 I’m currently learning Blockchain development.
 <!--
 **BedoMagdi/BedoMagdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
